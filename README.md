@@ -55,6 +55,7 @@
 | **Hampi — Stone Remembers** 🏛️ | A cinematic, scroll-driven digital heritage experience (TypeScript) | [Repo](https://github.com/saihaanmohammed120-cell/hampi) |
 | **AAL Sales EDA** 📊 | Exploratory data analysis of Australian apparel sales (Q4 2020): cleaning, visualization, and business recommendations | [Repo](https://github.com/saihaanmohammed120-cell/aal-sales-eda) · [Open in Colab](https://colab.research.google.com/github/saihaanmohammed120-cell/aal-sales-eda/blob/main/AAL_Sales_EDA_Final_Colab.ipynb) |
 | **Customer Order Analysis** 🛒 | E-commerce order analysis in pure Python: customer tiers, product popularity, and category insights | [Repo](https://github.com/saihaanmohammed120-cell/customer-order-analysis) |
+| **SevaPath** 🇮🇳 | Civic services guide: React frontend + FastAPI backend with an AI copilot. | [Repo](https://github.com/saihaanmohammed120-cell/SevaPath) · [Live demo](https://sevapath.vercel.app/) |
 
 ### 🤝 Let's Connect
 
