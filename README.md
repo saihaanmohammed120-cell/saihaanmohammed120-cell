@@ -13,11 +13,11 @@
 
 - 🎓 First-year **B.Sc. Data Science** student at Islamiah College (Autonomous)
 - 🧠 Practicing **Python + DSA** daily · working through a **Generative AI & ML** certification (E&ICT Academy, IIT Kanpur)
-- 🛠️ Building **Mend** — an AI code-repair agent with verification receipts (my portfolio centerpiece)
+- 🛠️ Building **Mend**: an AI code-repair agent with verification receipts (my portfolio centerpiece)
 - 🌱 Currently learning: Machine Learning, Generative AI, Agentic Engineering
 - 💬 Ask me about Python, Data Science, or AI agents
 - 📫 Reach me: **saihaanmd29@gmail.com**
-- ⚡ Fun fact: I built my first serious project with AI pair-programming — then hardened it with 150+ tests
+- ⚡ Fun fact: I built my first serious project with AI pair-programming, then hardened it with 150+ tests
 
 ### 🛠️ Tech Stack
 
@@ -50,11 +50,11 @@
 
 | Project | What it is | Links |
 |---|---|---|
-| **Mend** 🩹 | AI code-repair agent with verification receipts — my portfolio centerpiece | [Repo](https://github.com/saihaanmohammed120-cell/Mend) · [Live demo](https://mend-smasher.vercel.app/) |
-| **Sunken Crown** 👑 | A replayable Python command-line adventure game — choices, branching paths, multiple endings | [Repo](https://github.com/saihaanmohammed120-cell/sunken-crown) |
+| **Mend** 🩹 | AI code-repair agent with verification receipts. My portfolio centerpiece. | [Repo](https://github.com/saihaanmohammed120-cell/Mend) · [Live demo](https://mend-smasher.vercel.app/) |
+| **Sunken Crown** 👑 | A replayable Python command-line adventure game with branching paths and multiple endings | [Repo](https://github.com/saihaanmohammed120-cell/sunken-crown) |
 | **Hampi — Stone Remembers** 🏛️ | A cinematic, scroll-driven digital heritage experience (TypeScript) | [Repo](https://github.com/saihaanmohammed120-cell/hampi) |
-| **AAL Sales EDA** 📊 | Exploratory data analysis of Australian apparel sales (Q4 2020) — cleaning, visualization & business recommendations | [Repo](https://github.com/saihaanmohammed120-cell/aal-sales-eda) · [Open in Colab](https://colab.research.google.com/github/saihaanmohammed120-cell/aal-sales-eda/blob/main/AAL_Sales_EDA_Final_Colab.ipynb) |
-| **Customer Order Analysis** 🛒 | E-commerce order analysis in pure Python — customer tiers, product popularity & category insights | [Repo](https://github.com/saihaanmohammed120-cell/customer-order-analysis) |
+| **AAL Sales EDA** 📊 | Exploratory data analysis of Australian apparel sales (Q4 2020): cleaning, visualization, and business recommendations | [Repo](https://github.com/saihaanmohammed120-cell/aal-sales-eda) · [Open in Colab](https://colab.research.google.com/github/saihaanmohammed120-cell/aal-sales-eda/blob/main/AAL_Sales_EDA_Final_Colab.ipynb) |
+| **Customer Order Analysis** 🛒 | E-commerce order analysis in pure Python: customer tiers, product popularity, and category insights | [Repo](https://github.com/saihaanmohammed120-cell/customer-order-analysis) |
 
 ### 🤝 Let's Connect
 
